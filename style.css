@@ -1,0 +1,45 @@
+body{
+	margin: 0 auto;
+	background-image: url("dealership.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+.container{
+	width: 450px;
+	height: 550px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44, 62, 80,0.7);
+	margin-top: 160px;
+}
+
+.container img{
+	width: 200px;
+	height: 200px;
+	margin-top: -60px;
+}
+
+input[type="text"],input[type="password"]{
+	margin-top: 30px;
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+    border-radius: 25px;
+}
+
+
+
+
+.btn-login{
+	padding: 15px 25px;
+	border: none;
+	background-color: #27ae60;
+	color: #fff;
+    border-radius: 25px;
+    margin-top: 30px;
+}
